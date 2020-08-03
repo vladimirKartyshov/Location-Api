@@ -58,7 +58,6 @@ public class MainActivity extends AppCompatActivity {
     private Location currentLocation;
 
     private boolean isLocationUpdatesActive;
-    private String locationUpdateTime;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
